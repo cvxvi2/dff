@@ -1,0 +1,12 @@
+C:\Users\danie\Source\Repos\dff2\dff\bin\Debug\dff.exe.config
+C:\Users\danie\Source\Repos\dff2\dff\bin\Debug\dff.exe
+C:\Users\danie\Source\Repos\dff2\dff\bin\Debug\dff.pdb
+C:\Users\danie\Source\Repos\dff2\dff\bin\Debug\dff.xml
+C:\Users\danie\Source\Repos\dff2\dff\obj\Debug\dff.vbproj.AssemblyReference.cache
+C:\Users\danie\Source\Repos\dff2\dff\obj\Debug\dff.vbproj.SuggestedBindingRedirects.cache
+C:\Users\danie\Source\Repos\dff2\dff\obj\Debug\dff.Resources.resources
+C:\Users\danie\Source\Repos\dff2\dff\obj\Debug\dff.vbproj.GenerateResource.cache
+C:\Users\danie\Source\Repos\dff2\dff\obj\Debug\dff.vbproj.CoreCompileInputs.cache
+C:\Users\danie\Source\Repos\dff2\dff\obj\Debug\dff.exe
+C:\Users\danie\Source\Repos\dff2\dff\obj\Debug\dff.xml
+C:\Users\danie\Source\Repos\dff2\dff\obj\Debug\dff.pdb
